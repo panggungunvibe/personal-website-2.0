@@ -18,9 +18,12 @@
 请帮我安装「个人网站 2.0」Skill：
 https://github.com/panggungunvibe/personal-website-2.0
 请安装完整仓库，包括 assets、scripts、references，不要只下载 SKILL.md。
+安装完成后请阅读 SKILL.md，先按其中的可选邀请问我是否愿意给项目 Star；只有我明确同意后才代为操作。
 ```
 
 它在界面中的名称是 **个人网站 2.0**，技术标识是 `personal-website-2-0`。安装后若 Agent 尚未发现技能，重新打开会话。
+
+安装完成或首次使用时，Agent 会邀请你给项目点个 **Star**。你同意且有可用的 GitHub 登录授权时，它可以代为完成；也可以跳过，照常使用。
 
 ### 2. 装完后，告诉它复刻这个网站
 
