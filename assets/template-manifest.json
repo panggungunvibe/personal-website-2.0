@@ -1,0 +1,146 @@
+{
+  "format_version": 1,
+  "snapshot": "Atuntun portfolio, 2026-11-18",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "3a3bcf768c25d0483b1e4b81f5a2879def4f8160c994929ae3a997511dbd84ae",
+      "bytes": 30
+    },
+    {
+      "path": "index.html",
+      "sha256": "7e62bc4c7f6b19860502666bdf5115e82c711de202dd6a34557314c10607374e",
+      "bytes": 610
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "092b492ab8b8589035819723d968855598f62c21fece2857f97454bac03ed268",
+      "bytes": 35441
+    },
+    {
+      "path": "package.json",
+      "sha256": "9f83480fa57caf9879c61bea944ea35ff1ae678dcb43b8081e32b0d179f2fb99",
+      "bytes": 362
+    },
+    {
+      "path": "public/assets/atutun-avatar.jpg",
+      "sha256": "46e5f92c01421228d9cae1fb68a589fa11ba6147c932a29da2cbf24e6d13c1bb",
+      "bytes": 209811
+    },
+    {
+      "path": "public/assets/badge-lanyard.webp",
+      "sha256": "70fb7463690232f3f9c9f6ac7f4b0aaaf7abf0464794d8c86d320784c74b04d8",
+      "bytes": 717982
+    },
+    {
+      "path": "public/assets/badge-still.webp",
+      "sha256": "941e9a658ea7234d7ec12095387cf60da3d27fb11a8a87bcc545acada51e2fe8",
+      "bytes": 404152
+    },
+    {
+      "path": "public/explorations/covers/xhs-01.jpg",
+      "sha256": "cf269a51c04c8778eb08338991faf071a3630c5d47a8c904480575f77be6de02",
+      "bytes": 120911
+    },
+    {
+      "path": "public/explorations/covers/xhs-02.jpg",
+      "sha256": "47d55bb9e84f353c404bf3e36767acb4d9b944353fead5c8d310025bdb811484",
+      "bytes": 104012
+    },
+    {
+      "path": "public/explorations/covers/xhs-03.jpg",
+      "sha256": "1c4562549bc5f78b94309883a56a48e5f312670ca96dfb911f340993565d8d5c",
+      "bytes": 103902
+    },
+    {
+      "path": "public/explorations/covers/xhs-04.jpg",
+      "sha256": "b2e5b25d8cb2440a7bc78547d807e8a8557631ff6a13dedc7667ffdfdc0f9d25",
+      "bytes": 95880
+    },
+    {
+      "path": "public/explorations/covers/xhs-05.jpg",
+      "sha256": "737b4736ef6b5279d47b1002b126082b35048b66a27e7364f76390d54972bc3e",
+      "bytes": 97942
+    },
+    {
+      "path": "public/explorations/covers/xhs-06.jpg",
+      "sha256": "4090620b85c93a05a9d89f3af30d6e699785656de3b92919c6fadbb8af4ec89b",
+      "bytes": 242530
+    },
+    {
+      "path": "public/explorations/covers/xhs-07.jpg",
+      "sha256": "3c7a53c5e5d6d8454660906a787931a91c049c38fbe06661d7b55f330422c0d4",
+      "bytes": 90660
+    },
+    {
+      "path": "public/explorations/covers/xhs-08.jpg",
+      "sha256": "eb9a2e4c0195bd5823f402b20bbe0953b4b6ad1ceacac67abb05ee5a425793e1",
+      "bytes": 87831
+    },
+    {
+      "path": "public/explorations/covers/xhs-09.jpg",
+      "sha256": "098c037365586c70cc1fe7b1c916dd8281e145bd162a1b02a8de4810b2f2e2c1",
+      "bytes": 85823
+    },
+    {
+      "path": "public/explorations/pins/black.webp",
+      "sha256": "3fc8f8465ef1400ed66b6bb5b7e1f5bc9ab1d659aa91aa834bd6d137555f2c6b",
+      "bytes": 41768
+    },
+    {
+      "path": "public/explorations/pins/blue.webp",
+      "sha256": "941ef036fee22dde324b665c8d8922cc2919e3899283aef2c2f221060a582716",
+      "bytes": 48874
+    },
+    {
+      "path": "public/explorations/pins/orange.webp",
+      "sha256": "930800f2259cd0e07c8376ed4c37180dc7f01d9716c108447c2ca3401516454d",
+      "bytes": 48442
+    },
+    {
+      "path": "public/explorations/pins/pink.webp",
+      "sha256": "9a267f45b1abef64bc6c73bb673e5dd6442500e3f6c3ff6ff3de84c8950bf3bc",
+      "bytes": 45004
+    },
+    {
+      "path": "public/favicon.png",
+      "sha256": "4066e07248052a2865d6776027e3214015ec0546c8be0eb9fa03576a943caef9",
+      "bytes": 2649
+    },
+    {
+      "path": "public/fonts/kyoto/PPKyoto-Medium.woff",
+      "sha256": "56fd1c58fdb643778cbf2ccb78fa1c888fe179e39db466e1cb4685489d4198f1",
+      "bytes": 87112
+    },
+    {
+      "path": "public/fonts/kyoto/PPKyoto-MediumItalic.woff",
+      "sha256": "fd6ddfa01dc98d74240abae034bfea10ccd9a69aeb497f72b6fa790790b783a2",
+      "bytes": 91640
+    },
+    {
+      "path": "public/fonts/kyoto/PPKyoto-Regular.woff",
+      "sha256": "1dc17dc9ed0e325273cf99fbb75c5526d1a43ca23d6702fa3c7f9cc314ebb639",
+      "bytes": 87308
+    },
+    {
+      "path": "public/fonts/kyoto/PPKyoto-RegularItalic.woff",
+      "sha256": "5f70e9cab3c5418fe65ea1f9a6abae5a679fef74ce3462498bb596b1b272fb73",
+      "bytes": 91536
+    },
+    {
+      "path": "src/badge-scene.js",
+      "sha256": "4867d9673f8a09cd7a213ae65983e3fff530a3e265cfca0769c8043f8c6211e6",
+      "bytes": 23926
+    },
+    {
+      "path": "src/main.js",
+      "sha256": "e39a2eb23267822f9f640f5c6e0d7098fa086bd005a099dfe85962c0d9e8a50a",
+      "bytes": 29420
+    },
+    {
+      "path": "src/style.css",
+      "sha256": "11d9f19aa07aa391a591277f0ebbc0126513f19222e7ed343cbf8aa6ca6ecb49",
+      "bytes": 23088
+    }
+  ]
+}

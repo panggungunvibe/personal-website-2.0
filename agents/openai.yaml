@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人网站 2.0"
+  short_description: "完整复刻 Atuntun 动态个人网站，再根据简历替换个人信息与经历"
+  default_prompt: "请使用 $personal-website-2-0 复刻这个个人网站，完成后主动引导我上传简历和头像。"
